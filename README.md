@@ -13,6 +13,9 @@ The objective of this project was to gain hands-on experience with chemical proc
 - Material balance verification
 - Stream composition analysis
 
+## Software Used
+- DWSIM 9.0.2
+
 ## Process Flowsheet
 
 
@@ -56,3 +59,19 @@ Biodiesel-Process-Simulation/
     ├── Product_Stream.png
     └── Results.png
 ```
+
+## Key Learning Outcomes
+- Process flowsheet development using DWSIM
+- Configuration of a conversion reactor
+- Process simulation under steady-state conditions
+- Material balance verification
+- Interpretation of stream compositions
+- Basic downstream product separation
+
+## Future Improvements
+- Methanol recovery and recycle
+- Flash separation
+- Distillation-based purification
+- Process optimization
+- Equipment sizing
+- Economic analysis
