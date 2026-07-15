@@ -18,6 +18,8 @@ The objective of this project was to gain hands-on experience with chemical proc
 
 ## Process Flowsheet
 
+![Flowsheet](Flowsheet.png)
+
 
 ## Process Description
 The simulated process consists of the following unit operations:
