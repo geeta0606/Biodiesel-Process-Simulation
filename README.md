@@ -40,17 +40,16 @@ Reaction conversion:
 - Pressure	                1 atm
 
 ## Repository Structure
-"""
+
+```text
 Biodiesel-Process-Simulation/
 │
-├── Version_1/
-│   ├── Biodiesel_plant_simulation_Version_1.dwxmz
-│   ├── Report.pdf
-│   ├── README.md
-│   └── Images/
-│       ├── Flowsheet.png
-│       ├── Reactor.png
-│       └── StreamResults.png
-│
-└── LICENSE
-"""
+├── README.md
+├── biodiesel_process_simulation_v1.dwxmz
+├── Report.pdf
+└── Images/
+    ├── Flowsheet.png
+    ├── Reactor.png
+    ├── Product_Stream.png
+    └── Results.png
+```
