@@ -31,13 +31,16 @@ Reaction conversion:
 - 95% Triolein Conversion
 
 ## Simulation Parameters
-- Parameter	                Value
-- Software	                DWSIM 9.0.2
-- Property Package	        NRTL
-- Operating Mode	          Steady-State
-- Reactor Type	            Conversion Reactor
-- Reactor Temperature	      333.15 K
-- Pressure	                1 atm
+
+| Parameter | Value |
+|-----------|-------|
+| Software | DWSIM 9.0.2 |
+| Property Package | NRTL |
+| Simulation Type | Steady-State |
+| Reactor Type | Conversion Reactor |
+| Reactor Temperature | 333.15 K |
+| Operating Pressure | 1 atm |
+| Triolein Conversion | 95% |
 
 ## Repository Structure
 
